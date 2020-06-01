@@ -1,0 +1,23 @@
+{
+  "name": "email-validator",
+  "version": "0.0.1",
+  "description": "Validate emails like never before using the awesome email-validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourkoder/email-validator.git"
+  },
+  "keywords": [
+    "email",
+    "validate"
+  ],
+  "author": "Sohail Alam <hello@sohailalam.in>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/yourkoder/email-validator/issues"
+  },
+  "homepage": "https://github.com/yourkoder/email-validator#readme"
+}
