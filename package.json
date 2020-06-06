@@ -1,6 +1,6 @@
 {
   "name": "email-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Validate emails like never before using the awesome email-validator",
   "main": "index.js",
   "scripts": {
